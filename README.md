@@ -1,4 +1,4 @@
-# Project Title: YelpCamp
+# YelpCamp
 
 Welcome to **YelpCamp**! YelpCamp is a dynamic web application for exploring and sharing information about campgrounds. Users can view, review, and rate various campgrounds, and navigate locations using an interactive map.
 
