@@ -34,28 +34,29 @@ Explore the live application on Render: [YelpCamp Deployment](yelpcamp-7pax.onre
 Here’s a walkthrough of the application features with screenshots:
 
 - **Deployment Screenshot from Render**  
-  ![Deployment](path/to/your/deployment-screenshot.png)
+  ![Deployment](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Deployment.png?raw=true)
 
 - **Homepage**  
-  ![Homepage](path/to/your/homepage-screenshot.png)
+  ![Homepage](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/homepage.png?raw=true)
 
 - **Navbar**  
-  ![Navbar](path/to/your/navbar-screenshot.png)
+  ![Navbar](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Navbar.png?raw=true)
 
 - **Campground Reviews**  
-  ![Campground Reviews](path/to/your/campground-reviews-screenshot.png)
+  ![Campground Reviews](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Campground%20main%20page.png?raw=true)
 
 - **Adding Campground Reviews**  
-  ![Add Review](path/to/your/add-review-screenshot.png)
+  ![Add Review](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/NewCampgrounds.png?raw=true)
 
 - **Deleting Campground Reviews**  
-  ![Delete Review](path/to/your/delete-review-screenshot.png)
+  ![Delete Review](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Delete%20Campground.png?raw=true)
+  ![Delete Review 2](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/delete%20pop%20up.png?raw=true)
 
 - **Updating Campground Reviews**  
-  ![Update Review](path/to/your/update-review-screenshot.png)
+  ![Update Review](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Editcampground.png?raw=true)
 
 - **Rating Campgrounds**  
-  ![Rating](path/to/your/rating-screenshot.png)
+  ![Rating](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/ReviewandRatingfeature.png?raw=true)
 
 - **Movable Map (MapTiler)**  
-  ![Map](path/to/your/map-screenshot.png)
+  ![Map](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/DynamicMapByMapTiler.png?raw=true)
