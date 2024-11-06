@@ -1,6 +1,7 @@
 # YelpCamp
 
 Welcome to **YelpCamp**! YelpCamp is a dynamic web application for exploring and sharing information about campgrounds. Users can view, review, and rate various campgrounds, and navigate locations using an interactive map.
+
 ![Homepage](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/homepage.png?raw=true)
 
 ## Table of Contents
@@ -45,6 +46,15 @@ Here’s a walkthrough of the application features with screenshots:
 
 - **Campground Reviews**  
   ![Campground Reviews](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Campground%20main%20page.png?raw=true)
+
+  - **Login Page**  
+  ![Login Page](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/LoginPage.png?raw=true)
+
+- **Signup/Register Page**  
+  ![Signup/Register Page](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/SignUpPage.png?raw=true)
+
+- **Logout Page**  
+  ![Logout Page](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Logoutpopup.png?raw=true)
 
 - **Adding Campground Reviews**  
   ![Add Review](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/NewCampgrounds.png?raw=true)
