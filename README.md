@@ -19,7 +19,7 @@ YelpCamp is built with Node.js, Express, and MongoDB on the backend, and offers 
 
 ## Deployment
 
-Explore the live application on Render: [YelpCamp Deployment](https://your-yelpcamp-link.com)
+Explore the live application on Render: [YelpCamp Deployment](yelpcamp-7pax.onrender.com/)
 
 ## Features
 
