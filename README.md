@@ -71,3 +71,10 @@ Here’s a walkthrough of the application features with screenshots:
 
 - **Movable Map (MapTiler)**  
   ![Map](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/DynamicMapByMapTiler.png?raw=true)
+
+  - **Phone Preview**  
+  ![Preview 1](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-homepage.jpeg?raw=true)
+  ![Preview 2](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-Navbar.jpeg?raw=true)
+  ![Preview 3](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-Campgrounds.jpeg?raw=true)
+  ![Preview 4](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Phone-reviews-2.jpeg?raw=true)
+  ![Preview 5](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Phone-reviews.jpeg?raw=true)
