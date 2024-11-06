@@ -71,11 +71,12 @@ Here’s a walkthrough of the application features with screenshots:
 
 - **Movable Map (MapTiler)**  
   ![Map](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/DynamicMapByMapTiler.png?raw=true)
-
+ 
   - **Phone Preview**  
-  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-homepage.jpeg?raw=true" width="300"/>
-  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-Navbar.jpeg?raw=true" width="300"/>
-  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-Campgrounds.jpeg?raw=true" width="300"/>
-  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Phone-reviews-2.jpeg?raw=true" width="300"/>
-  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Phone-reviews.jpeg?raw=true" width="300"/>
+  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-homepage.jpeg?raw=true" width="300" style="display: inline-block;"/>
+  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-Navbar.jpeg?raw=true" width="300" style="display: inline-block;"/>
+  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/phone-Campgrounds.jpeg?raw=true" width="300" style="display: inline-block;"/>
+  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Phone-reviews-2.jpeg?raw=true" width="300" style="display: inline-block;"/>
+  <img src="https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/Phone-reviews.jpeg?raw=true" width="300" style="display: inline-block;"/>
+
 
