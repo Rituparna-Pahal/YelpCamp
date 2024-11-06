@@ -10,10 +10,6 @@ Welcome to **YelpCamp**! YelpCamp is a dynamic web application for exploring and
 - [Deployment](#deployment)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
