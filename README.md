@@ -1,6 +1,7 @@
 # YelpCamp
 
 Welcome to **YelpCamp**! YelpCamp is a dynamic web application for exploring and sharing information about campgrounds. Users can view, review, and rate various campgrounds, and navigate locations using an interactive map.
+![Homepage](https://github.com/Rituparna-Pahal/YelpCamp/blob/main/Screenshots/homepage.png?raw=true)
 
 ## Table of Contents
 
